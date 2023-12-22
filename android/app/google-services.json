@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662813290982",
+    "project_id": "tooheal-64da8",
+    "storage_bucket": "tooheal-64da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662813290982:android:5972d2ee3d6cb7b09da627",
+        "android_client_info": {
+          "package_name": "com.example.too_heal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhCku2ohv0Loq5HX4CziaYJQSxlE5NwUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
